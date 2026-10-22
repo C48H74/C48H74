@@ -1,4 +1,4 @@
-# Oi, eu sou o Daniel 🐧
+# Eu sou o Daniel 🐧
 
 Engenheiro sênior de tubulações e suportes migrando para **cibersegurança e IA aplicada**, e criador da **Aranduara Cyber**, consultoria de cibersegurança para empresas na Espanha.
 
